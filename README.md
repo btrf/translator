@@ -38,4 +38,6 @@ Universal translator from any language using Google Translate API.
 
 [![YooMoney](https://img.shields.io/badge/Support-YooMoney-orange?style=flat-square&logo=yoomoney)](https://yoomoney.ru/to/41001937179526)
 
+![QR Code for Donations](qr.png)
+
 [def]: translator.jpg
